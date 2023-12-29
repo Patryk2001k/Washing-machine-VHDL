@@ -10,6 +10,4 @@ memory, video and audio capabilities, Ethernet networking, and much more that pr
 exciting applications.
 
 
-[[https://github.com/Patryk2001k/Washing-machine-VHDL/blob/main/Altera/Altera%20FPGA%20image.JPG]]
-[[images/Altera_FPGA.jpg]]
-<img src="/Altera/Altera_FPGA.JPG">
+<img src="Altera/Altera_FPGA.JPG">
