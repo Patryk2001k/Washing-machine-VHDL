@@ -9,5 +9,6 @@ interconnect backbone. The DE1-SoC development board is equipped with high-speed
 memory, video and audio capabilities, Ethernet networking, and much more that promise many
 exciting applications.
 
+Docs: https://dl.btc.pl/kamami_wa/terasic_de1-soc-mtl2.pdf
 
 <img src="Altera/Altera_FPGA.JPG">
