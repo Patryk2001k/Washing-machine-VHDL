@@ -8,3 +8,8 @@ peripherals and memory interfaces tied seamlessly with the FPGA fabric using a h
 interconnect backbone. The DE1-SoC development board is equipped with high-speed DDR3
 memory, video and audio capabilities, Ethernet networking, and much more that promise many
 exciting applications.
+
+
+Altera
+/Altera FPGA image.JPG
+[[/Altera/image.JPG|ALT TEXT]]
