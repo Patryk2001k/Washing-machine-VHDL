@@ -12,4 +12,4 @@ exciting applications.
 
 [[https://github.com/Patryk2001k/Washing-machine-VHDL/blob/main/Altera/Altera%20FPGA%20image.JPG]]
 [[images/Altera_FPGA.jpg]]
-<img src="images/Altera_FPGA.jpg">
+<img src="/images/Altera_FPGA.jpg">
