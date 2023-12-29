@@ -10,6 +10,4 @@ memory, video and audio capabilities, Ethernet networking, and much more that pr
 exciting applications.
 
 
-Altera
-/Altera FPGA image.JPG
-[[/Altera/image.JPG|ALT TEXT]]
+[[Altera/image.JPG]]
